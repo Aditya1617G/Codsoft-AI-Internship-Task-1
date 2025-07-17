@@ -1,5 +1,4 @@
-# Task 2 – Rule-Based Chatbot
-# Created by Aditya for CodSoft AI Internship – 2025
+
 
 import datetime
 import pytz  
